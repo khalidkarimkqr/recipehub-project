@@ -1,3 +1,3 @@
-# Recipehub Project
+# recipehub Project
 
 Recipe application with custom recipe uploads.
